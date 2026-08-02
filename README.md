@@ -33,6 +33,21 @@ Fedra Arabic also matches Latin vs Arabic leading while going for same readabili
 
 Also get inspiration from some design choices of Mubassat and Maqroo typefaces?
 
+### Complete diacritic support
+
+Should ideally be able to render Hafs Quranic text.
+
+Perhaps target all glyphs that Kitab font supports.
+
+### Support for in-line and above letter diacritics
+
+<https://github.com/adamiturabi/arabic-inline-unicode/blob/main/index.pdf>
+
+Perhaps allow for both CGJ and Tatweel based positioning in order to render existing encoded Quranic text correctly.
+Perhaps re-use code from Kitab font.
+
+Support for in-line hamzah between lam-alef: la22aal
+
 ### Diacritics have good readability
 
 This again is a tricky one.
@@ -65,18 +80,6 @@ Should have enough space between lam and alef for an inline hamza.
 Makes it easier to avoid diacritic clashes.
 
 May need care so that waw and raa are not too far visually from next character.
-
-### Support for in-line and above letter diacritics
-
-<https://github.com/adamiturabi/arabic-inline-unicode/blob/main/index.pdf>
-
-Perhaps allow for both CGJ and Tatweel based positioning in order to render existing encoded Quranic text correctly.
-Perhaps re-use code from Kitab font.
-
-### Support for in-line hamzah
-
-between lam-alef la22aal
-
 
 ### Standalone hamzah matches diacritic hamzah in size
 
