@@ -14,6 +14,12 @@ Essentially this would be a "simplified" Arabic typeface.
 
 ## Requirements
 
+### Visually similar to its Latin companion
+
+Re-use i's dot in Arabic typeface?
+
+Similar stroke-widths?
+
 ### No extra leading needed for similar readability
 
 This, I imagine, would be a very difficult requirement to meet.
@@ -27,11 +33,18 @@ Fedra Arabic also matches Latin vs Arabic leading while going for same readabili
 
 Also get inspiration from some design choices of Mubassat and Maqroo typefaces?
 
-### Visually similar to its Latin companion
+### Diacritics have good readability
 
-Re-use i's dot in Arabic typeface?
+This again is a tricky one.
+Diacritcs should be large and spaced out enough to be readable.
+Yet, ideally they should not require extra leading.
+And ideally not add noise to basic consonontal letters.
 
-Similar stroke-widths?
+Perhaps:
+
++ Make them grayscale?
++ make alif and intial/medial lam shorter when they have a diacritic?
+
 
 ### All letter forms share the same basic glyph as much as possible.
 
@@ -49,7 +62,9 @@ Should have enough space between lam and alef for an inline hamza.
 
 ### No Kerning
 
-Makes it easier to avoid diacritic clashes
+Makes it easier to avoid diacritic clashes.
+
+May need care so that waw and raa are not too far visually from next character.
 
 ### Support for in-line and above letter diacritics
 
@@ -111,4 +126,8 @@ alif would have a "serif" at the bottom (only) to distinguish it from Latin lowe
 
 This matches Hijazi script.
 
+### Meem should be distinguished from fa/qaf
 
+Again a personal preference.
+Perhaps meem's eye should be split by the horizontal joiner,
+whereas fa/qaf's is above.
