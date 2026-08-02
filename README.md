@@ -10,6 +10,7 @@ What is needed is a good Arabic typeface that is a companion to these Latin type
 I list here some properties that would be nice to have.
 Many of these are in the spirit of the earliest Arabic scripts,
 and which I feel make them happily suitable for the difficult requirements of complete diacritic support.
+Essentially this would be a "simplified" Arabic typeface.
 
 ## Requirements
 
@@ -18,16 +19,32 @@ and which I feel make them happily suitable for the difficult requirements of co
 This, I imagine, would be a very difficult requirement to meet.
 But it would be very nice to have for inline Arabic within Latin text.
 
+Perhaps have bigger counters and smaller descenders.
+
+Fedra Arabic matches Latin vs Arabic leading while going for same readability:
 <https://tptq-arabic.com/fonts/fedra_serif_arabic>
 
+Incorporate some design choices of Mubassat and Maqroo typefaces?
+
+### Visually similar to its Latin companion
+
+Re-use i's dot in Arabic typeface?
+
+Similar stroke-widths?
 
 ### All letter forms share the same basic glyph as much as possible.
 
-Simple 
+Simple
 
 Makes it easier to avoid diacritic clashes
 
+### Only one ligature
+
 lam-alef
+
+Same lam-alef ligature used for isolated and final form.
+
+Should have enough space between lam and alef for an inline hamza.
 
 ### No Kerning
 
@@ -45,12 +62,15 @@ between lam-alef la22aal
 ### Standalone hamzah matches diacritic hamzah in size
 
 
-### A strong preference for horiztal joining
+### A strong preference for horizontal joining
+o
 
 
 ### jeem is vertically connected
 
+This doesn't necessarily have any practical benefit.
 
+This is more of a personal preference for the typeface to match earliest Arabic scripts.
 
 ### All letter forms of heh are visually similar
 
@@ -58,10 +78,15 @@ between lam-alef la22aal
 ### Seen's teeth are distinct from beh
 
 
-### Disregarding naskh kaf
+### Disregarding naskh final kaf
 
-### Visually similar to its Latin companion
+There is a mis-conception that Arabic's final/isolated kaf should be ك and that ک is Persian.
+The former is only a design choice for naskh and similar scripts.
 
-Resuse i's dot?
-Similar stroke-widths?
+ک is simpler and more consistent with initial and medial forms.
+
+### Dal and kaf should share the same basic glyph
+
+Again goes back to earliest scripts and avoid modern tendency of dal and jeem having a very similar shape.
+
 
