@@ -19,12 +19,13 @@ Essentially this would be a "simplified" Arabic typeface.
 This, I imagine, would be a very difficult requirement to meet.
 But it would be very nice to have for inline Arabic within Latin text.
 
-Perhaps have bigger counters and smaller descenders.
+Perhaps have bigger counters (aka loop/eye) and smaller descenders.
+Perhaps like Fresco Arabic: <https://www.khtt.net/en/page/587/fresco-arabic-western-latin-meets-western-kufi>
 
-Fedra Arabic matches Latin vs Arabic leading while going for same readability:
+Fedra Arabic also matches Latin vs Arabic leading while going for same readability:
 <https://tptq-arabic.com/fonts/fedra_serif_arabic>
 
-Incorporate some design choices of Mubassat and Maqroo typefaces?
+Also get inspiration from some design choices of Mubassat and Maqroo typefaces?
 
 ### Visually similar to its Latin companion
 
@@ -89,4 +90,14 @@ The former is only a design choice for naskh and similar scripts.
 
 Again goes back to earliest scripts and avoid modern tendency of dal and jeem having a very similar shape.
 
+Perhaps get some inspiration from
+Fresco Arabic's kaf. Drop the arm (ذراع) for dal.
+
+### Decide whether final-yeh should have initial bump or not
+
+In Naskh the inital bump of final yeh is the previous character.
+
+In the proposed font, if final yeh is to have an initial bump, it would not be the previous character.
+
+Or drop the initial bump altogether.
 
