@@ -70,6 +70,9 @@ May need care so that waw and raa are not too far visually from next character.
 
 <https://github.com/adamiturabi/arabic-inline-unicode/blob/main/index.pdf>
 
+Perhaps allow for both CGJ and Tatweel based positioning in order to render existing encoded Quranic text correctly.
+Perhaps re-use code from Kitab font.
+
 ### Support for in-line hamzah
 
 between lam-alef la22aal
