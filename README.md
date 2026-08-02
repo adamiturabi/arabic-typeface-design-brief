@@ -64,10 +64,11 @@ between lam-alef la22aal
 
 
 ### A strong preference for horizontal joining
-o
 
+Ties in with only one (lam-alef) ligature.
+Except:
 
-### jeem is vertically connected
+### jeem is pseudo-vertically connected
 
 This doesn't necessarily have any practical benefit.
 
@@ -91,7 +92,10 @@ The former is only a design choice for naskh and similar scripts.
 Again goes back to earliest scripts and avoid modern tendency of dal and jeem having a very similar shape.
 
 Perhaps get some inspiration from
-Fresco Arabic's kaf. Drop the arm (ذراع) for dal.
+Fresco Arabic's kaf. Drop most of the arm (ذراع) for dal.
+
+Optionally, medial kaf and dal would be identical (like the earliest scripts).
+But this could be a user choice.
 
 ### Decide whether final-yeh should have initial bump or not
 
@@ -100,4 +104,11 @@ In Naskh the inital bump of final yeh is the previous character.
 In the proposed font, if final yeh is to have an initial bump, it would not be the previous character.
 
 Or drop the initial bump altogether.
+
+### alif would have a "serif" at the bottom
+
+alif would have a "serif" at the bottom (only) to distinguish it from Latin lower case l.
+
+This matches Hijazi script.
+
 
