@@ -121,6 +121,9 @@ But this could be a user choice.
 ### Decide whether final-yeh should have initial bump or not
 
 In Naskh the inital bump of final yeh is the previous character.
+For example:
+
+![بآياتي](bi2aayaatii.png)
 
 In the proposed font, if final yeh is to have an initial bump, it would not be the previous character.
 
