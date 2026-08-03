@@ -114,9 +114,9 @@ Except:
 ### jeem is pseudo-vertically connected
 
 
-<img src="sayaj3alu.png" height="100">
+![sayaj3alu](sayaj3alu.png)
 
-سيجعل
+Text: سيجعل
 
 This doesn't necessarily have any practical benefit.
 
@@ -128,7 +128,7 @@ This is more of a personal preference for the typeface to match earliest Hijazi 
 
 ![seenteeth](seenteeth.png)
 
-يستغيثوا
+Text: يستغيثوا
 
 ### All letter forms of ه are visually similar
 
