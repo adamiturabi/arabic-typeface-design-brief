@@ -114,7 +114,8 @@ Except:
 ### jeem is pseudo-vertically connected
 
 
-![sayaj3alu](sayaj3alu.png)
+<img src="sayaj3alu.png" height="100">
+
 سيجعل
 
 This doesn't necessarily have any practical benefit.
