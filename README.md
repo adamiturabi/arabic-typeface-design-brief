@@ -16,9 +16,9 @@ Essentially this would be a "simplified" Arabic typeface.
 
 ### Visually similar to its Latin companion
 
-Re-use i's dot in Arabic typeface?
+Perhaps re-use i's dot in Arabic typeface?
 
-Similar stroke-widths?
+Have similar stroke-widths?
 
 ### No extra leading needed for similar readability
 
@@ -26,7 +26,11 @@ This, I imagine, would be a very difficult requirement to meet.
 But it would be very nice to have for inline Arabic within Latin text.
 
 Perhaps have bigger counters (aka loop/eye) and smaller descenders.
-Perhaps like Fresco Arabic: <https://www.khtt.net/en/page/587/fresco-arabic-western-latin-meets-western-kufi>
+Perhaps like Fresco Arabic:
+
+[Fresco Arabic Characteristics - Diagram showing the characteristics of Fresco Arabic in relation to its Latin counterpart. Lara Assouad](https://www.khtt.net/en/page/1553/fresco-arabic-characteristics)
+
+https://www.khtt.net/en/page/587/fresco-arabic-western-latin-meets-western-kufi>
 
 Fedra Arabic also matches Latin vs Arabic leading while going for same readability:
 <https://tptq-arabic.com/fonts/fedra_serif_arabic>
