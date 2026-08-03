@@ -121,7 +121,7 @@ This is more of a personal preference for the typeface to match earliest Hijazi 
 
 
 
-### س's teeth are distinct from ب
+### The character س's teeth are distinct from ب
 
 ![seenteeth](seenteeth.png)
 
