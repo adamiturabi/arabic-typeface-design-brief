@@ -8,7 +8,7 @@ For example [Brill](https://www.tiro.com/fonts/brill), and [Charis](https://soft
 
 What is needed is a good Arabic typeface that is a companion to these Latin typefaces.
 I list here some properties that would be nice to have.
-Many of these are in the spirit of the earliest Arabic scripts,
+Many of these are in the spirit of the earliest Hijazi Arabic scripts,
 and which I feel make them happily suitable for the difficult requirements of complete diacritic support.
 Essentially this would be a "simplified" Arabic typeface.
 
@@ -44,12 +44,25 @@ Perhaps target all glyphs that Kitab font supports.
 
 ### Support for in-line and above letter diacritics
 
+Some diacritics can be positioned above or after a basic consonontal character,
+depending on the writing style and the intended sounding out.
+Examples are dagger alef and hamza.
+
+Here is dagger alif above a consonant:
+
+![الصلاة](alsalaat.png)
+
+And here it is after a consonant:
+
+![السماوات](alsamaawaat.png)
+
+Hamza similarly can be above or after a consonant.
+The issue is discussed in detail here:
+
 <https://github.com/adamiturabi/arabic-inline-unicode/blob/main/index.pdf>
 
 Perhaps allow for both CGJ and Tatweel based positioning in order to render existing encoded Quranic text correctly.
 Perhaps re-use code from Kitab font.
-
-Support for in-line hamzah between lam-alef: la22aal
 
 ### Diacritics have good readability
 
@@ -66,17 +79,22 @@ Perhaps:
 
 ### All letter forms share the same basic glyph as much as possible.
 
-Simple
+Simple.
 
-Makes it easier to avoid diacritic clashes
+Makes it easier to avoid diacritic clashes.
 
 ### Only one ligature
 
-lam-alef
+Only one lam-alef ligature: لا
 
-Same lam-alef ligature used for isolated and final form.
+Same lam-alef ligature used for isolated and final form:
+
+![lam-alef](lam-alef.png)
 
 Should have enough space between lam and alef for an inline hamza.
+
+![alaaxirah](alaaxirah.png)
+
 
 ### No Kerning
 
@@ -86,6 +104,7 @@ May need care so that waw and raa are not too far visually from next character.
 
 ### Standalone hamzah matches diacritic hamzah in size
 
+![aabaa2uhum](aabaa2uhum.png)
 
 ### A strong preference for horizontal joining
 
@@ -94,22 +113,28 @@ Except:
 
 ### jeem is pseudo-vertically connected
 
+![sayaj3alu](sayaj3alu.png)
+
 This doesn't necessarily have any practical benefit.
 
-This is more of a personal preference for the typeface to match earliest Arabic scripts.
-
-### All letter forms of heh are visually similar
+This is more of a personal preference for the typeface to match earliest Hijazi Arabic scripts.
 
 
-### Seen's teeth are distinct from beh
 
+### س's teeth are distinct from ب
+
+![seenteeth](seenteeth.png)
+
+### All letter forms of ه are visually similar
+
+![heh](heh.png)
 
 ### Disregarding naskh final kaf
 
 There is a mis-conception that Arabic's final/isolated kaf should be ك and that ک is Persian.
 The former is only a design choice for naskh and similar scripts.
 
-ک is simpler and more consistent with initial and medial forms.
+But ک is simpler and more consistent with initial and medial forms.
 
 ### Dal and kaf should share the same basic glyph
 
@@ -120,6 +145,8 @@ Fresco Arabic's kaf. Drop most of the arm (ذراع) for dal.
 
 Optionally, medial kaf and dal would be identical (like the earliest scripts).
 But this could be a user choice.
+
+![kaf-dal](kaf-dal.png)
 
 ### Decide whether final-yeh should have initial bump or not
 
@@ -138,8 +165,13 @@ alif would have a "serif" at the bottom (only) to distinguish it from Latin lowe
 
 This matches Hijazi script.
 
+![alef](alef.png)
+
 ### Meem should be distinguished from fa/qaf
 
 Again a personal preference.
 Perhaps meem's eye should be split by the horizontal joiner,
 whereas fa/qaf's is above.
+
+![fa-meem](fa-meem.png)
+
