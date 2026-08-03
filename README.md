@@ -26,7 +26,7 @@ This, I imagine, would be a very difficult requirement to meet.
 But it would be very nice to have for inline Arabic within Latin text.
 
 Perhaps have bigger counters (aka loop/eye) and smaller descenders.
-Perhaps like Fresco Arabic:
+Perhaps get inspiration from Fresco Arabic:
 
 ![Fresco Arabic Characteristics - Diagram showing the characteristics of Fresco Arabic in relation to its Latin counterpart. Lara Assouad](https://www.khtt.net/image/2017/4/11/fresco_arabic.jpg%28%29%2808B7679C6451D166A0FF8C839133436D%29.jpg)  
 ^[Fresco Arabic Characteristics - Diagram showing the characteristics of Fresco Arabic in relation to its Latin counterpart. Lara Assouad](https://www.khtt.net/en/page/587/fresco-arabic-western-latin-meets-western-kufi)
