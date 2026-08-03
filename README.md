@@ -12,6 +12,8 @@ Many of these are in the spirit of the earliest Hijazi Arabic scripts,
 and which I feel make them happily suitable for the difficult requirements of complete diacritic support.
 Essentially this would be a "simplified" Arabic typeface.
 
+Images of the Hijazi script below are from the Birmingham Quran manuscript: <https://en.wikipedia.org/wiki/Birmingham_Quran_manuscript>
+
 ## Requirements
 
 ### Visually similar to its Latin companion
