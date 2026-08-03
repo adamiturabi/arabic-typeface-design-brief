@@ -113,7 +113,9 @@ Except:
 
 ### jeem is pseudo-vertically connected
 
+
 ![sayaj3alu](sayaj3alu.png)
+سيجعل
 
 This doesn't necessarily have any practical benefit.
 
@@ -124,6 +126,8 @@ This is more of a personal preference for the typeface to match earliest Hijazi 
 ### The character س's teeth are distinct from ب
 
 ![seenteeth](seenteeth.png)
+
+يستغيثوا
 
 ### All letter forms of ه are visually similar
 
